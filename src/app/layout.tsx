@@ -3,9 +3,9 @@ import Script from "next/script";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Pop HTML CSS Template",
+  title: "RobertFortune",
   description:
-    "New HTML Template with pop up pages and use this layout for your website",
+    "RobertFortune portfolio",
 };
 
 export default function RootLayout({
